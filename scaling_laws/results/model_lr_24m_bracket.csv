@@ -1,0 +1,3 @@
+d_model,num_heads,num_hidden_layers,intermediate_size,model_params,batch_size,learning_rate,optimizer_steps,data_size,experiment_id,status,used_runtime_seconds,final_loss,last_3_average_loss
+448,7,10,1280,24084480,32,0.001,2048,33554432,4082,completed,41.90998891717754,4.8671875,4.869140625
+448,7,10,1280,24084480,32,0.01,2048,33554432,4088,completed,42.10180226410739,4.392578125,4.405598958333333

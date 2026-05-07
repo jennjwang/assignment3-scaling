@@ -1,0 +1,5 @@
+d_model, num_heads, num_hidden_layers, intermediate_size, model_params, batch_size, learning_rate, optimizer_steps, data_size, experiment_id, status   , final_loss , last_3_average_loss
+    384,         6,                 8,              1024,     14155776,         32,         0.003,            1024,  16777216,          1592, completed, 4.833984375,   4.84765625
+    640,        10,                12,              2048,     58982400,         32,         0.003,            1024,  16777216,          1593, completed, 4.708984375,   4.720703125
+    768,        12,                16,              3072,    113246208,         32,         0.003,            1024,  16777216,          1595, completed, 4.716796875,   4.729817708333333
+    768,        12,                16,              3072,    113246208,        128,         0.003,             256,  16777216,          1605, completed, 5.818359375,   5.841796875
